@@ -22,7 +22,7 @@ export default function ThanksPage() {
         <Image alt="logo" src={Thanks} quality={100} />{' '}
         <TextContent>
           <h1>Congratulations on your purchase!</h1>
-          <p>Access will be sent to your email. Very easy to access!</p>
+          <p>Access will be sent to your email. Very easy to access</p>
         </TextContent>
       </MainContainer>
     </>
