@@ -23,7 +23,7 @@ export const Div1 = styled('div', {
 
   h1: {
     width: '90%',
-    paddingTop: '3rem',
+    paddingTop: '2.5rem',
   },
 })
 

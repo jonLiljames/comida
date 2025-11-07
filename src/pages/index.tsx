@@ -360,7 +360,9 @@ export default function Home() {
               <h1>R$29,90 à vista</h1>
               <p>ou 6x de R$ 5,66</p>
             </Div14>
-            <a href="https://">Quero as receitas agora!</a>
+            <a href="https://pay.kirvano.com/c5faa737-6121-491a-8f9a-25b3e1c63eb6">
+              Quero as receitas agora!
+            </a>
           </Div12>
           <Div10>
             <Div11>
