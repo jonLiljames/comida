@@ -53,6 +53,13 @@ export default function Home() {
         <title>Fitlicias</title>
         <meta name="description" content="Terapeuta Transforma" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <script
+          src="https://cdn.utmify.com.br/scripts/utms/latest.js"
+          data-utmify-prevent-xcod-sck
+          data-utmify-prevent-subids
+          async
+          defer
+        ></script>
       </Head>
 
       <>
