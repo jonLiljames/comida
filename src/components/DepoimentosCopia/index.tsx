@@ -14,8 +14,8 @@ export default function Depoimentos() {
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 5000,
-    speed: 900,
+    autoplaySpeed: 3000,
+    speed: 1500,
     pauseOnHover: true,
     responsive: [
       {

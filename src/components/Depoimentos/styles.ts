@@ -10,7 +10,7 @@ export const DepoimentosContainer = styled('div', {
 
   '@media (max-width: 768px)': {
     maxWidth: '100%',
-    padding: '2rem 1rem',
+    padding: '2rem 0rem',
   },
 })
 

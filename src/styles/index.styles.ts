@@ -23,7 +23,7 @@ export const Div1 = styled('div', {
 
   h1: {
     width: '90%',
-    paddingTop: '2.5rem',
+    paddingTop: '1.5rem',
   },
 })
 
@@ -107,9 +107,13 @@ export const Div6 = styled('div', {
   flexDirection: 'column',
   alignItems: 'center',
   width: '100%',
+  background: '#13594d',
+  paddingTop: '2rem',
+  paddingBottom: '2rem',
 
   p: {
     width: '90%',
+    color: 'White',
     fontSize: '1.4rem',
     fontWeight: '500',
   },

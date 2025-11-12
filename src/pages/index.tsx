@@ -170,7 +170,7 @@ export default function Home() {
               Lista de compras e modo de preparo passo a passo
             </p>
           </Div4>
-          <Div5>
+          {/* <Div5>
             <Image alt="img" src={especialista} quality={100} />
             <p>
               Quantas vezes você já tentou seguir uma alimentação mais leve e
@@ -192,6 +192,13 @@ export default function Home() {
               todos com ingredientes simples, sabor real e o equilíbrio que o
               seu corpo precisa.
             </p>
+          </Div5> */}
+          <Div6>
+            <p>
+              <span style={{ color: '#4CAF50' }}>Mais de 10 mil pessoas</span>{' '}
+              já testaram e aprovaram nossas receitas .
+            </p>
+            <Depoimentos></Depoimentos>
             <span
               style={{
                 display: 'flex',
@@ -205,13 +212,6 @@ export default function Home() {
                 title="Quero minhas receitas fit agora!"
               />
             </span>
-          </Div5>
-          <Div6>
-            <p>
-              <span style={{ color: '#4CAF50' }}>Mais de 10 mil pessoas</span>{' '}
-              já testaram e aprovaram nossas receitas .
-            </p>
-            <Depoimentos></Depoimentos>
           </Div6>
           <h1
             style={{
