@@ -72,8 +72,8 @@ export default function Home() {
             </h1>
             <Div2>
               <p>
-                Transforme suas tentações favoritas em versões mais leves e
-                nutritivas!
+                Receitas de baixas calorias e nutritivas, criadas pela nutri
+                Fernanda!
               </p>
               <Depoimentoscopia />
               <Div3>
