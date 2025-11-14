@@ -21,14 +21,14 @@ import {
   Div15,
 } from '@/styles/index.styles'
 import especialista from '../../public/especialistas.webp'
-import cenoura from '../../public/cenoura.webp'
-import aperitivo from '../../public/aperitivos.webp'
-import barrinha from '../../public/barrinhafit.png'
-import bolinhos from '../../public/bolinhos.webp'
-import brownie from '../../public/browni.webp'
-import salgado from '../../public/salgados.webp'
-import pastel from '../../public/minipastel.webp'
-import muffin from '../../public/mufinsal.webp'
+import cenoura from '../../public/bolocenourafrigideira.webp'
+import aperitivo from '../../public/pizzafrigideira.webp'
+import barrinha from '../../public/bombomproteina.webp'
+import bolinhos from '../../public/muffinaveia.webp'
+import brownie from '../../public/panqueca.webp'
+import salgado from '../../public/Wrap.webp'
+import pastel from '../../public/pastelzinhorap10.webp'
+import muffin from '../../public/pãoliquidificador.webp'
 import garantia from '../../public/garantia30.webp'
 import mokupfit from '../../public/mokupfit.webp'
 import shakes from '../../public/shakes.webp'
@@ -227,16 +227,16 @@ export default function Home() {
             <Div9>
               <Image alt="img" src={cenoura} quality={100} />
               <p style={{ paddingTop: '.5rem', width: '70%' }}>
-                Bolo de cenoura sem glúten
+                Bolo de cenoura na frigideira
               </p>
               <p style={{ fontWeight: 'bold', color: '#ea580c' }}>
-                🔥221 Calorias
+                🔥130 Calorias
               </p>
             </Div9>
             <Div9>
               <Image alt="img" src={pastel} quality={100} />
               <p style={{ paddingTop: '.5rem', width: '70%' }}>
-                Mini pastel de carne
+                Mini pastel rap10 de frango
               </p>
               <p style={{ fontWeight: 'bold', color: '#ea580c' }}>
                 🔥127 Calorias
@@ -245,43 +245,43 @@ export default function Home() {
             <Div9>
               <Image alt="img" src={brownie} quality={100} />
               <p style={{ paddingTop: '.5rem', width: '70%' }}>
-                brownie de chocolate
+                Panqueca de banana
               </p>
               <p style={{ fontWeight: 'bold', color: '#ea580c' }}>
-                🔥245 Calorias
+                🔥115 Calorias
               </p>
             </Div9>
             <Div9>
               <Image alt="img" src={salgado} quality={100} />
-              <p style={{ paddingTop: '.5rem', width: '70%' }}>
-                Pão recheado com frango
+              <p style={{ paddingTop: '.5rem', width: '65%' }}>
+                Wrap saudável big mac
               </p>
               <p style={{ fontWeight: 'bold', color: '#ea580c' }}>
-                🔥148 Calorias
+                🔥128 Calorias
               </p>
             </Div9>
             <Div9>
               <Image alt="img" src={bolinhos} quality={100} />
-              <p style={{ paddingTop: '.5rem', width: '75%' }}>
-                Bolinho com gotas de chocolate
+              <p style={{ paddingTop: '.5rem', width: '70%' }}>
+                Muffin de banana e aveia
               </p>
               <p style={{ fontWeight: 'bold', color: '#ea580c' }}>
-                🔥167 Calorias
+                🔥127 Calorias
               </p>
             </Div9>
             <Div9>
               <Image alt="img" src={muffin} quality={100} />
               <p style={{ paddingTop: '.5rem', width: '70%' }}>
-                Muffin de presunto e queijo
+                Pão de liquidificador
               </p>
               <p style={{ fontWeight: 'bold', color: '#ea580c' }}>
-                🔥164 Calorias
+                🔥124 Calorias
               </p>
             </Div9>
             <Div9>
               <Image alt="img" src={barrinha} quality={100} />
               <p style={{ paddingTop: '.5rem', width: '70%' }}>
-                Barrinha caseira
+                Bombom proteico
               </p>
               <p style={{ fontWeight: 'bold', color: '#ea580c' }}>
                 🔥80 Calorias
@@ -289,7 +289,9 @@ export default function Home() {
             </Div9>
             <Div9>
               <Image alt="img" src={aperitivo} quality={100} />
-              <p style={{ paddingTop: '.5rem', width: '70%' }}>Petiscos</p>
+              <p style={{ paddingTop: '.5rem', width: '70%' }}>
+                Pizza de frigideira
+              </p>
               <p style={{ fontWeight: 'bold', color: '#ea580c' }}>
                 🔥100 Calorias
               </p>
